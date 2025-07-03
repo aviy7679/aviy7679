@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Avigail Yeruchimovich
 
-<!--
-**aviy7679/aviy7679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate Software Developer with a creative mind, analytical thinking, and a strong drive for meaningful, impactful work.
 
-Here are some ideas to get you started:
+💡 I enjoy building intelligent systems that combine **machine learning**, **computer vision**, and **knowledge graphs**, especially in real-time decision-making scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Languages:** Java (Spring Boot), Python, C/C++, JavaScript, Node.js, Assembly  
+- **Frontend:** HTML5, CSS, React  
+- **Backend:** Flask, FastAPI, Spring Boot  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j  
+- **Tools:** GitHub, VS Code, IntelliJ, PyCharm, Postman, Arduino IDE  
+- **Platforms:** Windows, Linux
+
+## 📚 Notable Projects
+
+- 🧠 **MediAid**: A real-time emergency decision support system that analyzes free-text and images using NLP (MedCAT) and computer vision (BioMedCLIP), integrates with Neo4j medical graphs, and provides personalized guidance.  
+- ⌚ **Smart Medical Bracelet**: Real-time health monitoring system using ESP32, biosensors, and emergency alerts for anomalies or dangerous motion patterns.
+
+## 🎓 Courses & Interests
+
+- Data Structures and Algorithms (Advanced)  
+- Cybersecurity & Network Communication  
+- Machine Learning and Data Science  
+- Design Patterns and Software Architecture  
+- Linear Algebra & Statistics
+
+## 📬 Contact
+
+📧 Aviy7679@gmail.com  
+📍 Based in Israel | 🌐 Open to global collaboration  
