@@ -29,4 +29,5 @@
 ## 📬 Contact
 
 📧 Aviy7679@gmail.com  
+☎️ 052.767.9175
 📍 Based in Israel | 🌐 Open to global collaboration  
